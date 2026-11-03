@@ -8,7 +8,7 @@ Proyecto de People Analytics: evalúo con un experimento aleatorizado si un curs
 
 El curso mejoró el examen práctico en **1.76 puntos de 20** frente al grupo control (IC 95%: 0.81 a 2.71). Es una mejora real, pero no alcanza los 2.5 puntos que fijé como criterio de éxito antes del análisis. Además, el hábito de estudio no se sostuvo: 12 semanas después del curso, el grupo que lo hizo estaba tan activo en la plataforma como el que no.
 
-Mi recomendación es no escalar el curso como está, sino ajustarlo (sobre todo el seguimiento después del curso) y volver a medir.
+Mi recomendación es no escalar el curso como está, sino ajustarlo (sobre todo el seguimiento después del curso), combinarlo con microcápsulas de aprendizaje difundidas por los medios de comunicación de la empresa para sostener el hábito, y volver a medir.
 
 ![Puntaje antes y después del curso](figuras/02_antes_despues.png)
 
