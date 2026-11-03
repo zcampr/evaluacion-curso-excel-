@@ -43,5 +43,3 @@ Para correrlo: `pip install -r requirements.txt` y abrir el notebook.
 - Los participantes fueron voluntarios, así que los resultados no se pueden generalizar a toda la empresa.
 - El examen no está validado formalmente y no se midió la aplicación de lo aprendido en el trabajo.
 - El criterio de éxito (2.5 puntos) se definió antes del análisis formal, después de una revisión exploratoria de los promedios.
-
-Como los datos son simulados, sé cuál es el efecto real que puse en el generador: alrededor de 1.77 puntos para este grupo. El análisis estimó 1.76, lo que me sirvió para comprobar que el método funciona.
