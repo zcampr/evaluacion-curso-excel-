@@ -1,0 +1,76 @@
+id_colaborador,area,cargo,antiguedad_meses,grupo,modulos_completados,puntaje_pre,puntaje_post
+C001,Operaciones,Analista,40,Curso,2,13.0,13.5
+C002,Recursos Humanos,Asistente,51,Control,,11.0,10.0
+C003,Comercial,Coordinador,86,Curso,7,7.0,12.5
+C004,Finanzas,Asistente,24,Curso,8,11.0,14.0
+C005,Finanzas,Asistente,18,Curso,8,10.0,12.5
+C006,Logística,Asistente,11,Control,,7.5,8.0
+C007,Administración,Analista,11,Curso,5,13.0,13.5
+C008,Operaciones,Analista,4,Curso,8,10.0,
+C009,Recursos Humanos,Asistente,33,Control,,10.0,8.0
+C010,Finanzas,Asistente,95,Control,,5.5,7.5
+C011,Administración,Analista,17,Curso,8,11.0,11.0
+C012,Administración,Analista,17,Control,,16.5,18.0
+C013,Recursos Humanos,Analista,55,Control,,14.5,15.5
+C014,Logística,Analista,79,Curso,6,14.0,16.0
+C015,Comercial,Coordinador,87,Control,,8.0,
+C016,Logística,Coordinador,132,Control,,14.0,11.5
+C017,Comercial,Asistente,15,Curso,4,12.5,14.0
+C018,Finanzas,Coordinador,179,Curso,6,13.0,13.0
+C019,Finanzas,Analista,52,Control,,14.5,12.5
+C020,Operaciones,Analista,20,Control,,7.0,
+C021,Comercial,Analista,68,Control,,9.0,8.0
+C022,Comercial,Analista,30,Control,,7.0,7.0
+C023,Recursos Humanos,Coordinador,80,Curso,4,15.5,19.5
+C024,Operaciones,Asistente,16,Curso,5,8.5,11.5
+C025,Comercial,Analista,50,Curso,7,13.0,14.5
+C026,Finanzas,Analista,27,Control,,11.5,8.5
+C027,Operaciones,Asistente,25,Control,,5.0,7.0
+C028,Comercial,Analista,10,Control,,11.5,11.0
+C029,Comercial,Asistente,26,Curso,5,7.0,9.0
+C030,Finanzas,Analista,38,Control,,10.0,11.0
+C031,Operaciones,Asistente,27,Control,,9.0,7.0
+C032,Logística,Analista,41,Curso,6,11.5,12.5
+C033,Logística,Coordinador,72,Curso,5,12.0,13.5
+C034,Comercial,Analista,24,Control,,7.5,8.5
+C035,Finanzas,Asistente,31,Curso,7,6.5,5.5
+C036,Administración,Analista,25,Control,,12.5,11.5
+C037,Comercial,Asistente,36,Curso,6,11.5,14.5
+C038,Comercial,Analista,36,Control,,8.5,8.5
+C039,Administración,Asistente,13,Curso,7,8.0,12.5
+C040,Finanzas,Asistente,6,Control,,6.5,8.5
+C041,Recursos Humanos,Asistente,6,Control,,9.0,9.0
+C042,Finanzas,Asistente,14,Control,,6.0,7.5
+C043,Finanzas,Analista,44,Control,,15.5,15.5
+C044,Recursos Humanos,Asistente,12,Control,,9.0,10.0
+C045,Operaciones,Analista,14,Curso,5,8.0,10.5
+C046,Comercial,Analista,30,Control,,6.0,8.0
+C047,Comercial,Coordinador,148,Curso,1,12.5,11.5
+C048,Operaciones,Asistente,32,Curso,6,12.0,17.0
+C049,Recursos Humanos,Asistente,28,Control,,8.0,10.5
+C050,Comercial,Asistente,81,Curso,7,3.0,
+C051,Comercial,Asistente,31,Control,,6.5,3.0
+C052,Finanzas,Analista,14,Curso,8,12.5,13.0
+C053,Finanzas,Analista,33,Control,,13.5,12.0
+C054,Comercial,Analista,32,Control,,12.0,12.5
+C055,Comercial,Analista,62,Control,,12.0,13.0
+C056,Recursos Humanos,Coordinador,50,Curso,2,12.5,16.5
+C057,Comercial,Analista,39,Curso,7,11.5,16.0
+C058,Finanzas,Analista,76,Control,,9.5,9.5
+C059,Operaciones,Coordinador,18,Control,,10.5,13.5
+C060,Logística,Asistente,4,Curso,7,6.0,6.5
+C061,Comercial,Analista,53,Control,,7.0,8.5
+C062,Finanzas,Analista,21,Control,,11.0,12.0
+C063,Comercial,Analista,13,Curso,7,6.5,11.0
+C064,Operaciones,Asistente,21,Curso,6,9.5,
+C065,Administración,Analista,84,Curso,5,11.0,
+C066,Administración,Analista,47,Control,,11.5,13.0
+C067,Operaciones,Asistente,15,Curso,2,6.0,8.5
+C068,Finanzas,Asistente,38,Curso,7,12.5,16.0
+C069,Recursos Humanos,Asistente,41,Control,,9.0,11.0
+C070,Finanzas,Coordinador,62,Control,,13.0,16.5
+C071,Comercial,Asistente,7,Curso,7,7.0,11.0
+C072,Finanzas,Asistente,38,Curso,8,9.0,8.5
+C073,Logística,Asistente,22,Curso,2,10.0,10.0
+C074,Administración,Asistente,13,Control,,8.0,5.5
+C075,Administración,Asistente,10,Curso,8,6.5,8.5
