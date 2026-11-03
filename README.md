@@ -2,7 +2,7 @@
 
 Proyecto de People Analytics: evalúo con un experimento aleatorizado si un curso de Excel de una plataforma de aprendizaje mejora el desempeño de los colaboradores y si el hábito de estudio se mantiene después.
 
-> Los datos son sintéticos. Los generé con `datos/generar_datos.py` para practicar el método; no corresponden a ninguna empresa ni persona real.
+> El caso está inspirado en una necesidad real de mi trabajo: evaluar si los cursos de una plataforma de aprendizaje funcionan. Como no puedo usar datos de la empresa, simulé los datos con `datos/generar_datos.py`. Las cifras y los resultados son inventados y no reflejan a ninguna organización ni persona real.
 
 ## Resultado
 
@@ -38,6 +38,10 @@ Para correrlo: `pip install -r requirements.txt` y abrir el notebook.
 
 ## Limitaciones
 
-Los datos son simulados y la muestra es chica, así que los intervalos son anchos. Todos los participantes eran voluntarios, el examen no está validado y no se midió si la gente aplica lo aprendido en su trabajo. El umbral de éxito lo fijé después de mirar los promedios por encima.
+- Los datos son simulados: el proyecto muestra el método, no un resultado real.
+- Con 75 personas, los intervalos de confianza son amplios y no permiten comparar subgrupos con seguridad.
+- Los participantes fueron voluntarios, así que los resultados no se pueden generalizar a toda la empresa.
+- El examen no está validado formalmente y no se midió la aplicación de lo aprendido en el trabajo.
+- El criterio de éxito (2.5 puntos) se definió antes del análisis formal, después de una revisión exploratoria de los promedios.
 
 Como los datos son simulados, sé cuál es el efecto real que puse en el generador: alrededor de 1.77 puntos para este grupo. El análisis estimó 1.76, lo que me sirvió para comprobar que el método funciona.
